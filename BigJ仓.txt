@@ -1,0 +1,9 @@
+{"urls":[
+{"url":"clan://localhost/BigJ/bigJ.json","name":"bigJ自用"},
+{"url":"clan://localhost/BigJ/bigJali.json","name":"bigJ自用阿里"},
+
+
+
+
+
+]}
