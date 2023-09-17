@@ -1,9 +1,5 @@
 {"urls":[
-{"url":"clan://localhost/BigJ/bigJ.json","name":"bigJ自用"},
-{"url":"clan://localhost/BigJ/bigJali.json","name":"bigJ自用阿里"},
-
-
-
-
+{"url":"https://ghproxy.net/https://raw.githubusercontent.com/cheng-yyds/BigJ/main/bigJ.json","name":"bigJ自用"},
+{"url":"https://ghproxy.net/https://raw.githubusercontent.com/cheng-yyds/BigJ/main/bigJali.json","name":"bigJ自用阿里"},
 
 ]}
